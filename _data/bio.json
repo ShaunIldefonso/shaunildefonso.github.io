@@ -17,23 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "ShaunIldefonso",
+        "url": "http://github.com/ShaunIldefonso"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "ShaunIldefonso",
         "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
       }
     ]
   },
@@ -41,8 +31,7 @@
     {
       "name": "internet of things",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "" , ""
       ]
     },
     {
@@ -83,10 +72,10 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Hawai'i at Mānoa, Honolulu, HI",
+      "area": "Mechanical Engineering (expected Spring, 2020)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2016-08-22",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -95,10 +84,10 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Ukulele Puapua",
+      "position": "Sales Associate",
+      "website": "www.gcea.com",
+      "startDate": "2017-11-16",
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
