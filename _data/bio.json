@@ -18,7 +18,7 @@
       {
         "network": "linkedin",
         "username": "ShaunIldefonso",
-        "url": "http://linkedin.com/in/changeme"
+        "url": "http://linkedin.com/in/shaun-jan-mikhel-ildefonso-02ba79183"
       }
     ]
   },
@@ -84,24 +84,45 @@
       "website": "www.gcea.com",
       "startDate": "2017-11-16",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Create meaningful connections with the customer to ease the process of buying $1,000+ Ukuleles",
+        "Shot and edited a free ad for the store’s social media page that promoted the company’s overgoal within the ukulele industry"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
+      "company": "Maryknoll School",
+      "position": "Drumline Coach",
       "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "startDate": "2017-12-1",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Teach the students music to play during the basketball games to increase school spirit"
       ]
-    }
+    },
+    {
+      "company": "Hawai'i ParTea",
+      "position": "Barista",
+      "startDate": "2017-05-12",
+      "endDate": "2017-11-19",
+      "summary": "",
+      "highlights": [
+        "Take orders and create the drinks in a timely mannered",
+        "Prepare ingredients for the current and next shift and maintain a clean work environment"
+      ]
+    },
+    {
+      "company": "Zippy's Waiau",
+      "position": "Cashier",
+      "startDate": "2014-05",
+      "endDate": "2016-07",
+      "summary": "",
+      "highlights": [
+        "Greet customers and take orders",
+        "Pack and deliver orders to customers quickly and efficiently "
+      ]
+    },
   ],
   "volunteer": [
     {
