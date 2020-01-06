@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Shaun Jan Mikhel Ildefonso",
-    "label": "Mechanical Engineering Student",
+    "label": "Student",
     "picture": "https://shaunildefonso.github.io/images/shaun.jpg",
     "email": "shaunjan@hawaii.edu",
     "phone": "808-469-9503",
@@ -16,11 +16,6 @@
     },
     "profiles": [
       {
-        "network": "github",
-        "username": "ShaunIldefonso",
-        "url": "http://github.com/ShaunIldefonso"
-      },
-      {
         "network": "linkedin",
         "username": "ShaunIldefonso",
         "url": "http://linkedin.com/in/changeme"
@@ -29,18 +24,18 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Automotive",
       "keywords": [
         "" , ""
       ]
     },
     {
-      "name": "data mining",
+      "name": "Robotics",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Manufacture",
       "keywords": [
       ]
     }
